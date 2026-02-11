@@ -1,0 +1,17 @@
+{
+  "name": "shingle-marketplace",
+  "version": "0.2.0",
+  "description": "Shingle plugin marketplace for solo consultants",
+  "owner": {
+    "name": "Shingle",
+    "email": "support@shingle.dev"
+  },
+  "plugins": [
+    {
+      "name": "shingle",
+      "description": "Practice-area skills and safety hooks for solo consultants",
+      "version": "0.2.0",
+      "source": "./plugins/shingle"
+    }
+  ]
+}
